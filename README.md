@@ -62,4 +62,14 @@ A Machine Learning-powered web app built with Flask that predicts the likelihood
 - Instant results displayed in a clean UI with supportive messaging.
 
 ---
+## **Requirements**
 
+To run the Heart Disease Prediction Flask app locally, ensure the following dependencies are installed:
+
+- Python 3.8 or higher  
+- **Flask**: `pip install flask`  
+- **Scikit-learn**: `pip install scikit-learn`  
+- **Pandas**: `pip install pandas`  
+- **NumPy**: `pip install numpy`  
+- **Joblib**: `pip install joblib`
+---
