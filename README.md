@@ -18,35 +18,6 @@ A Machine Learning-powered web app built with Flask that predicts the likelihood
 
 ---
 
-## 🧠 Tools and Libraries Overview
-
-### **Flask**
-[Flask](https://flask.palletsprojects.com/) is a lightweight WSGI web application framework used to build the backend of the app and manage HTTP routes.
-
-### **Scikit-learn**
-[Scikit-learn](https://scikit-learn.org/) is a popular machine learning library used for training the classification model that predicts the likelihood of heart disease.
-
-### **Pandas**
-[Pandas](https://pandas.pydata.org/) is used for loading, preprocessing, and analyzing the structured health data used by the ML model.
-
-### **NumPy**
-[NumPy](https://numpy.org/) supports numerical computation and efficient array operations in the backend.
-
-### **HTML5**
-[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) structures the frontend form where users input their medical information.
-
-### **CSS3**
-[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) is used to style the frontend and enhance user experience with layout and design.
-
-### **JavaScript**
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) provides dynamic functionality and interactions on the client-side.
-
-### **Jupyter Notebook**
-[Jupyter](https://jupyter.org/) was used for model development, training, evaluation, and initial testing before integrating into Flask.
-
-### **Python**
-[Python](https://python.org) is the core language powering both the ML model and the Flask backend logic.
-
 ---
 
 ## 📊 Features
@@ -57,7 +28,6 @@ A Machine Learning-powered web app built with Flask that predicts the likelihood
 - 🧪 Trained with real-world clinical data
 - 🔒 Optionally extendable with login/signup and database integration
 
----
 ---
 
 ## 💡 Project Workflow
