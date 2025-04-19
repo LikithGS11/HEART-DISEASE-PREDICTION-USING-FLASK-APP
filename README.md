@@ -18,8 +18,6 @@ A Machine Learning-powered web app built with Flask that predicts the likelihood
 
 ---
 
----
-
 ## 📊 Features
 
 - ✅ Predicts the likelihood of heart disease based on 13+ medical features
